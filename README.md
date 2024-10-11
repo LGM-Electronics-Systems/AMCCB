@@ -1,3 +1,6 @@
-REQUERIMIENTOS
+argument menu copiar comprimir borrar
 
-apt install pv
+REQUERIMIENTOS: apt install pv
+
+
+
